@@ -63,7 +63,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req,res) => {
-    res.send('Gotchaaaaaaaaaaaa');
+    res.send('Gotchaa');
 })
 
 app.listen(port, () => {
